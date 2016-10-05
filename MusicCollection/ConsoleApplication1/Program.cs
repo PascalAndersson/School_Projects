@@ -133,9 +133,7 @@ namespace Vinyllistan
             }
         }
         //static void SaveListToFile()
-        {
-            
-        }
+
 
 
     }
