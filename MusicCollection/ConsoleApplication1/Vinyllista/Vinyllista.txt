@@ -1,0 +1,2 @@
+Album: firestone Artist: kygo Year: 2014
+Artist: kygo Album: waterstone Year: 2014
