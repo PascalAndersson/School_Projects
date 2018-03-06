@@ -1,0 +1,11 @@
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\bin\Debug\netcoreapp2.0\GenericSorting.deps.json
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\bin\Debug\netcoreapp2.0\GenericSorting.runtimeconfig.json
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\bin\Debug\netcoreapp2.0\GenericSorting.runtimeconfig.dev.json
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\bin\Debug\netcoreapp2.0\GenericSorting.dll
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\bin\Debug\netcoreapp2.0\GenericSorting.pdb
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\obj\Debug\netcoreapp2.0\GenericSorting.csprojResolveAssemblyReference.cache
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\obj\Debug\netcoreapp2.0\GenericSorting.csproj.CoreCompileInputs.cache
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\obj\Debug\netcoreapp2.0\GenericSorting.AssemblyInfoInputs.cache
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\obj\Debug\netcoreapp2.0\GenericSorting.AssemblyInfo.cs
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\obj\Debug\netcoreapp2.0\GenericSorting.dll
+C:\Users\Pascal Andersson\source\repos\GenericSorting\GenericSorting\obj\Debug\netcoreapp2.0\GenericSorting.pdb
